@@ -1,1 +1,1 @@
-# PaymentReceipt
+This project is a Python application that generates a payment receipt for a given transaction. It's designed to be simple, efficient, and customizable. The user can input transaction details, and the program will format and output a professional-looking receipt.
